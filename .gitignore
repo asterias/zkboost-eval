@@ -1,0 +1,17 @@
+.DS_Store
+*.csv
+*.csv.gz
+*.zip
+adult.data
+adult.test
+HIGGS.csv
+HIGGS.csv.gz
+# datasets / large artifacts
+*.csv
+*.csv.gz
+*.zip
+HIGGS.csv
+HIGGS.csv.gz
+adult.data
+adult.test
+data/
